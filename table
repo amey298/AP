@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practical No.3</title>
+</head>
+<body>
+    <h2>AMEY PATIL CS24004</h2>
+    <h1 align="center">TIME TABLE </h1>
+    <h3>Section : A</h3>
+<table  border="n"  cellspacing="6" cellpadding="8">
+    <tr bgcolor="orange">
+        <th> Day/Time</th>
+        <th>Monday</th>
+        <th>Tuesday </th>
+        <th>Wensday</th>
+        <th>Tursday</th>
+        <th>Friday</th>
+        <th>Saturday</th>
+    </tr>
+    <tr>
+        <td>4 :00 to 5:00 </td>
+        <td>Fresh up</td>
+        <td>Fresh up</td>
+        <td>Fresh up</td>
+        <td>Fresh up</td>
+        <td>Fresh up</td>
+        <td>Fresh up</td>
+        
+    </tr>
+<tr bgcolor="Gren">
+    <td>5:00 to 6:00</td>
+    <td>Electrical</td>
+    <td>Maths</td>
+    <td>English</td>
+    <td>WD</td>
+    <td>ACP</td>
+    <td>maths</td>
+</tr>
+<tr>
+    <td>6:00 to 7:30</td>
+    <td align="center" colspan="6">GYM</td>
+</tr>
+<tr bgcolor="orange">
+    <td>8:00 to 9:00</td>
+    <td>ACP</td>
+    <td>Math Homework</td>
+    <td>Electrical homework</td>
+    <td>Previous day study Revision</td>
+    <td>Previous day study Revision</td>
+    <td>Previous day study Revision</td>
+</tr>
+<tr>
+    <td>9:00 to 10:00</td>
+    <td colspan="6" align="center">Lunch</td>
+</tr>
+<tr bgcolor="Gren">
+    <td>10:30 to 5:30</td>
+    <td colspan="6" align="center">College</td>
+</tr>
+
+</table>
+</body>
+</html>
